@@ -32,3 +32,5 @@ I am currently bridging the gap between Development, Operations, and Security. I
 
 ### 📊 My GitHub Stats
 ![Naledi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naledi-Reed&show_icons=true&theme=radical&cache_seconds=0)
+
+Checking in from ky Kali Linux machine!
