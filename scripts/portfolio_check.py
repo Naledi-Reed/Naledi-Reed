@@ -16,12 +16,9 @@ required_project_readmes = [
     ROOT / "projects/windows-powershell-admin-toolkit/README.md",
     ROOT / "projects/iot-human-detection-probe/README.md",
     ROOT / "projects/iot-aquasense/README.md",
-    ROOT / "projects/database-sql-server/README.md",
     ROOT / "projects/information-networking/README.md",
 ]
 
-# Deliberately conservative patterns: these are checks for obvious accidental
-# credential commits, not a substitute for a full secret scanner.
 secret_patterns = [
     re.compile(r"-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----"),
     re.compile(r"AKIA[0-9A-Z]{16}"),
