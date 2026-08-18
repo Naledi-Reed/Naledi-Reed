@@ -1,22 +1,32 @@
 # Cloud Native Student Qualifier
 
 **Module:** CNA261 — Cloud Native Programming  
-**Focus:** Docker, containerisation, CLI deployment
+**Portfolio role:** Cloud/containerisation evidence
 
-## What this project demonstrates
+## What I built
 
-A console application that calculates whether a student qualifies to write an exam from four assessment inputs. The project was containerised, published to Docker Hub and documented for CLI use.
+A C# console application that calculates a student's weighted assessment average and determines whether the student qualifies to write an exam. The supplied project evidence then shows the application being containerised and demonstrated through Docker CLI workflows.
 
-## Evidence to add
+## Repository contents
 
-- Source code
-- `Dockerfile`
-- Screenshot of successful image build
-- Screenshot of Docker Hub repository
-- Screenshot of `docker pull`
-- Screenshot of the running container
-- Presentation/demo link
+- `src/Program.cs` — cleaned source representation based on the supplied project evidence
+- `Dockerfile` — portfolio container build
+- `docs/CLI-GUIDE.md` — Docker CLI usage
+- `evidence/` — selected visual evidence from the project, added during portfolio curation
 
-## Key takeaway
+## Weighted calculation
 
-This project is evidence of moving from “it works on my machine” toward a repeatable, container-based workflow.
+| Assessment | Weight |
+|---|---:|
+| Test 1 | 30% |
+| Test 2 | 50% |
+| Assignment 1 | 10% |
+| Project | 10% |
+
+## What this demonstrates
+
+`C# → application logic → container image → registry workflow → CLI execution`
+
+## Portfolio note
+
+The raw academic submissions are intentionally not published here. This folder is the cleaned, public-facing version of the project with sensitive student/group information removed or avoided.
