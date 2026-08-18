@@ -2,16 +2,16 @@
 
 # N A L E D I&nbsp; R E E D
 
-### `devsecops.exe` is starting...
+### `security-operations.exe` is starting...
 
-**IT Student · Cybersecurity · Cloud · DevOps**
+**IT Student · Cybersecurity · Security Operations · Cloud**
 
 [![Belgium Campus](https://img.shields.io/badge/Belgium%20Campus-iTversity-111827?style=for-the-badge)](https://www.belgiumcampus.ac.za/)
-[![Focus](https://img.shields.io/badge/Focus-DevSecOps-7c3aed?style=for-the-badge)](#the-mission)
-[![Containers](https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#featured-projects)
-[![Security](https://img.shields.io/badge/Security-CyberOps-ef4444?style=for-the-badge)](#the-mission)
+[![Focus](https://img.shields.io/badge/Focus-SOC%20%26%20Cybersecurity-ef4444?style=for-the-badge)](#the-mission)
+[![Networking](https://img.shields.io/badge/Networking-CCNA-0ea5e9?style=for-the-badge)](#toolbox)
+[![Security](https://img.shields.io/badge/Security-CyberOps-7c3aed?style=for-the-badge)](#certifications)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=850&lines=IT+Student+%7C+DevSecOps+in+the+Making;Learning+Cloud.+Breaking+Systems.+Securing+Them.;From+Belgium+Campus+Labs+to+Real+World+Infrastructure" alt="Typing introduction">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=EF4444&center=true&vCenter=true&width=850&lines=IT+Student+%7C+Cybersecurity+in+the+Making;Learning+to+Detect.+Investigate.+Respond.;Networking+%E2%86%92+Systems+%E2%86%92+Security+%E2%86%92+Cloud" alt="Typing introduction">
 
 </div>
 
@@ -25,19 +25,22 @@ Role        : IT Student
 Programme   : Diploma in Information Technology
 Institution : Belgium Campus iTversity
 Year        : 2nd Year
-Direction   : Cybersecurity • Cloud • DevOps
-Mindset     : Build it. Break it. Secure it. Automate it.
+Direction   : Cybersecurity • Security Operations • Cloud Security
+Strengths   : Networking • Systems • Automation • Infrastructure
+Mindset     : Observe. Investigate. Respond. Improve.
 ```
 
-> I am building toward **DevSecOps** — the space where software, infrastructure and security stop living in separate rooms.
+> I am building toward **security operations and cybersecurity**, while developing the cloud, systems and automation skills that make security work stronger.
 
 ### The mission
 
-I am not collecting technologies just to put logos on a README.
+I am interested in what happens **when a system stops behaving normally**: what changed, how to identify it, how to investigate it, how to contain it and how to make the environment harder to compromise next time.
 
-I want to understand how systems are built, how they fail, how attackers can abuse them, and how automation can make them safer and easier to operate.
+My current path:
 
-`Networking → Systems → Security → Cloud → Containers → Automation → DevSecOps`
+`Networking → Systems → Security → Security Operations → Cloud Security → Automation`
+
+DevOps and DevSecOps remain part of the toolkit, but **security is the centre of the portfolio**.
 
 ---
 
@@ -46,18 +49,27 @@ I want to understand how systems are built, how they fail, how attackers can abu
 ```console
 $ ./naledi --status
 
-[+] systems              online
 [+] networking           active
+[+] linux                active
+[+] windows              active
 [+] cybersecurity        active
+[+] security-ops         learning
 [+] cloud                learning
-[+] containers           active
-[+] DevSecOps            building
-[>] next_target          production-grade projects
+[+] automation           building
+[>] next_target          real incident investigations
 ```
 
 ---
 
 ## `featured-projects`
+
+### 🛡️ SOC Lab — building
+
+**Security Monitoring · Incident Response · Network Analysis · Windows/Linux**
+
+A practical home-lab track for learning how to detect, investigate and document security events using intentionally isolated virtual machines.
+
+→ `SOC-LAB-ROADMAP.md`
 
 ### 🐳 Cloud Native Student Qualifier
 
@@ -123,9 +135,10 @@ A collaborative web project demonstrating branch-based development, version cont
 
 | Area | Tools / Knowledge |
 |---|---|
-| Security | Cisco CyberOps, threat detection, incident response, security fundamentals |
+| Security | Cisco CyberOps, security fundamentals, incident-response concepts |
 | Networking | CCNA foundations, routing, switching, IPv6, subnetting |
 | Systems | Linux, Kali, Ubuntu, Windows, Windows Server |
+| Security Operations | SIEM concepts, event analysis, investigation workflow, threat detection (building) |
 | Cloud | AWS learning path, Azure concepts |
 | Containers | Docker, Docker CLI, Docker Hub |
 | Automation | PowerShell, scripting, repeatable administration |
@@ -145,6 +158,7 @@ A collaborative web project demonstrating branch-based development, version cont
 | Introduction to Data Science | Cisco | ✅ Earned |
 | IT Essentials | Cisco | ✅ Earned |
 | Introduction to Cybersecurity | Cisco | ✅ Earned |
+| CompTIA Security+ | CompTIA | 🟡 Target |
 | AWS Cloud Practitioner | AWS | 🟡 Learning |
 
 [View my Credly profile →](https://www.credly.com/users/naledi-reed)
@@ -172,20 +186,32 @@ COURSEWORK
      REAL-WORLD ENGINEERING
 ```
 
-My full academic record and private marks stay outside the public profile. Public repositories focus on **skills, evidence and outcomes**.
+My full academic record, raw marks and private administration stay outside the public profile. Public repositories focus on **skills, evidence and outcomes**.
 
 ---
 
 ## `learning-log`
 
 ### Now
-`DevSecOps · Cloud · Docker · Linux · Cybersecurity`
+`Security+ · Linux · Windows Events · Networking · Wireshark · SOC fundamentals`
 
-### Next
-`AWS foundations · CI/CD · Infrastructure as Code · Security automation`
+### Building
+`SIEM · incident response · detection engineering · PowerShell · Python · cloud security`
 
 ### Later
-`Production cloud environments · Security pipelines · Observability · Kubernetes`
+`AWS security · Terraform · DevSecOps · advanced detection · security engineering`
+
+---
+
+## `home-lab`
+
+The next practical phase is a controlled VirtualBox security lab built around:
+
+`Kali Linux → Ubuntu → Metasploitable 2/3 → Windows 7 → Windows 11 baseline`
+
+The lab will be isolated from the normal home network and used for **defensive learning, controlled attack simulation, logging, investigation and incident response**.
+
+→ `SOC-LAB-ROADMAP.md`
 
 ---
 
@@ -214,7 +240,8 @@ The profile is being built like a small engineering system:
 **Project layer** → what I built  
 **Evidence layer** → screenshots, diagrams and reports  
 **Learning layer** → what changed and what I learned  
-**Automation layer** → checks, CI/CD and repeatable workflows
+**Automation layer** → checks, CI/CD and repeatable workflows  
+**Lab layer** → controlled security experimentation
 
 </details>
 
