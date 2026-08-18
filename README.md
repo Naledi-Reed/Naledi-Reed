@@ -119,6 +119,14 @@ A collaborative web project demonstrating branch-based development, version cont
 
 [→ Open project](projects/information-networking/)
 
+### 🏢 ERP Case Study
+
+**Enterprise Systems · Process Analysis · ERP**
+
+A business/technical case study exploring enterprise systems, process integration and ERP decision-making.
+
+[→ Open project](projects/enterprise-resource-planning-case-study/)
+
 ---
 
 ## `toolbox`
@@ -177,6 +185,28 @@ COURSEWORK
 ```
 
 My full academic record, raw marks and private administration stay outside the public profile. Public repositories focus on **skills, evidence and outcomes**.
+
+---
+
+## `one-command-build`
+
+The public portfolio is maintained through one Windows command from a local clone:
+
+```powershell
+.\BUILD-PORTFOLIO.ps1
+```
+
+That builder:
+
+- uses the approved project set
+- excludes DBD261 by policy
+- checks for obvious secrets/private academic markers
+- validates the project structure
+- generates the portfolio build manifest
+- creates a Git commit when changes exist
+- pushes the current branch when GitHub authentication is configured
+
+The builder does **not** blindly publish raw assignments. New academic material still goes through curation before it becomes public portfolio evidence.
 
 ---
 
