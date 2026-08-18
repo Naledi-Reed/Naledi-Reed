@@ -4,12 +4,14 @@
 
 ### `devsecops.exe` is starting...
 
+**IT Student · Cybersecurity · Cloud · DevOps**
+
 [![Belgium Campus](https://img.shields.io/badge/Belgium%20Campus-iTversity-111827?style=for-the-badge)](https://www.belgiumcampus.ac.za/)
 [![Focus](https://img.shields.io/badge/Focus-DevSecOps-7c3aed?style=for-the-badge)](#the-mission)
-[![Cloud](https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-0ea5e9?style=for-the-badge)](#toolbox)
-[![Cybersecurity](https://img.shields.io/badge/Security-CyberOps-ef4444?style=for-the-badge)](#the-mission)
+[![Containers](https://img.shields.io/badge/Containers-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#featured-projects)
+[![Security](https://img.shields.io/badge/Security-CyberOps-ef4444?style=for-the-badge)](#the-mission)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=850&lines=IT+Student+%7C+DevSecOps+in+the+Making;Learning+Cloud.+Breaking+Systems.+Securing+Them.;From+Belgium+Campus+Labs+to+Real+World+Infrastructure" alt="Typing intro">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=850&lines=IT+Student+%7C+DevSecOps+in+the+Making;Learning+Cloud.+Breaking+Systems.+Securing+Them.;From+Belgium+Campus+Labs+to+Real+World+Infrastructure" alt="Typing introduction">
 
 </div>
 
@@ -31,11 +33,9 @@ Mindset     : Build it. Break it. Secure it. Automate it.
 
 ### The mission
 
-I am not trying to collect technologies just to put logos on a README.
+I am not collecting technologies just to put logos on a README.
 
 I want to understand how systems are built, how they fail, how attackers can abuse them, and how automation can make them safer and easier to operate.
-
-My current path:
 
 `Networking → Systems → Security → Cloud → Containers → Automation → DevSecOps`
 
@@ -59,60 +59,63 @@ $ ./naledi --status
 
 ## `featured-projects`
 
-### 01 — Cloud Native Student Qualifier
+### 🐳 Cloud Native Student Qualifier
 
-**Docker • C# • Containers • Docker Hub**
+**Docker · C# · Containers · Docker Hub**
 
-A student qualification application packaged as a container and documented for repeatable execution with the Docker CLI.
+A console application that determines whether a student qualifies to write an exam, then packages the application into a Docker image and publishes it for CLI-based use.
 
-What I worked with:
-- Console application logic
-- Dockerfile and image creation
-- Docker Desktop
-- Docker Hub publishing
-- CLI-based deployment instructions
+**Evidence:** Dockerfile workflow · image build · Docker Hub · `docker pull` · `docker run`
 
 → `projects/cloud-native-student-qualifier/`
 
----
+### 🖥️ Hybrid Windows Infrastructure
 
-### 02 — Hybrid IT Infrastructure Lab
+**Windows Server 2019 · Active Directory · Group Policy · Security Hardening**
 
-**Windows Server 2019 • Active Directory • Group Policy • Azure**
-
-A practical infrastructure project covering enterprise identity, access control, server roles, Group Policy, remote access and security hardening.
+An enterprise-style infrastructure lab covering server deployment, identity, access control, DNS/DHCP, Group Policy, shared storage, certificates and security hardening.
 
 → `projects/windows-server-hybrid-infrastructure/`
 
----
+### ⚙️ PowerShell Administration Toolkit
 
-### 03 — Human Detection Probe
+**PowerShell · Windows Administration · Automation · Monitoring**
 
-**Arduino • PIR • Embedded Systems • IoT**
+A toolkit for replacing repetitive Windows administration with reusable functions for system identity, process monitoring and administrative checks.
 
-A technical design for a search-and-rescue probe intended to detect human presence in disaster environments and trigger an alert.
+→ `projects/windows-powershell-admin-toolkit/`
+
+### 🤖 Human Detection Probe
+
+**IoT · Arduino · PIR · Embedded Systems**
+
+A search-and-rescue concept using human-presence detection and alerting for disaster environments.
 
 → `projects/iot-human-detection-probe/`
 
----
+### 💧 AquaSense
 
-### 04 — Enterprise Resource Planning Case Study
+**IoT · Sensors · Cloud · Project Planning**
 
-**ERP • Business Processes • Systems Analysis**
+A smart irrigation and environmental monitoring concept combining sensors, microcontrollers, cloud computing and a user-facing application.
 
-An investigation into how enterprise systems and ERP selection could reduce operational impact during large-scale digital failures.
+→ `projects/iot-aquasense/`
 
-→ `projects/enterprise-resource-planning-case-study/`
+### 🗄️ SQL Server Project Database
 
----
+**SQL Server · T-SQL · Relational Modelling**
 
-### 05 — Database & Information Systems Work
+A relational database design for departments, employees, projects and employee/project allocation.
 
-**Databases • Information Networking • Systems Thinking**
+→ `projects/database-sql-server/`
 
-A growing collection of coursework showing how I approach data, networks and information systems as connected parts of an infrastructure.
+### 🌐 Information Networking Project
 
-→ `projects/database-systems/`
+**HTML · CSS · JavaScript · Git · GitHub Pages**
+
+A collaborative web project demonstrating branch-based development, version control, AI-assisted development and static deployment.
+
+→ `projects/information-networking/`
 
 ---
 
@@ -125,6 +128,7 @@ A growing collection of coursework showing how I approach data, networks and inf
 | Systems | Linux, Kali, Ubuntu, Windows, Windows Server |
 | Cloud | AWS learning path, Azure concepts |
 | Containers | Docker, Docker CLI, Docker Hub |
+| Automation | PowerShell, scripting, repeatable administration |
 | Programming | C#, console applications, problem solving |
 | Infrastructure | Active Directory, Group Policy, DNS, DHCP, file services |
 | IoT | Arduino, PIR sensing, hardware/system modelling |
@@ -149,9 +153,7 @@ A growing collection of coursework showing how I approach data, networks and inf
 
 ## `academic-year-2026`
 
-This profile is becoming more than a collection of assignments.
-
-I am turning my second-year work into a **technical evidence trail**:
+This profile is becoming a **technical evidence trail**, not an assignment dump.
 
 ```text
 COURSEWORK
@@ -170,27 +172,27 @@ COURSEWORK
      REAL-WORLD ENGINEERING
 ```
 
-Important: my full academic record and raw marks are being kept separately from the public project portfolio. Public repositories will focus on **skills, evidence and outcomes**, not private student information.
+My full academic record and private marks stay outside the public profile. Public repositories focus on **skills, evidence and outcomes**.
 
 ---
 
 ## `learning-log`
 
 ### Now
-`DevSecOps • Cloud • Docker • Linux • Cybersecurity`
+`DevSecOps · Cloud · Docker · Linux · Cybersecurity`
 
 ### Next
-`AWS foundations • CI/CD • Infrastructure as Code • Security automation`
+`AWS foundations · CI/CD · Infrastructure as Code · Security automation`
 
 ### Later
-`Production cloud environments • Security pipelines • Observability • Kubernetes`
+`Production cloud environments · Security pipelines · Observability · Kubernetes`
 
 ---
 
 ## `github-stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naledi-Reed&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naledi-Reed&show_icons=true&hide_border=true" alt="GitHub statistics">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naledi-Reed&layout=compact&hide_border=true" alt="Top languages">
 </p>
 
@@ -198,21 +200,21 @@ Important: my full academic record and raw marks are being kept separately from 
 
 ## `connect`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naledi%20Reed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naledi-reed)
+[![GitHub](https://img.shields.io/badge/GitHub-Naledi--Reed-181717?style=for-the-badge&logo=github)](https://github.com/Naledi-Reed)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B35?style=for-the-badge)](https://www.credly.com/users/naledi-reed)
 
 ---
 
 <details>
-<summary><strong>🧩 Want to see how this portfolio is built?</strong></summary>
+<summary><strong>🧩 How this portfolio is evolving</strong></summary>
 
-This profile is intentionally structured like a small engineering system.
+The profile is being built like a small engineering system:
 
 **Profile layer** → who I am  
 **Project layer** → what I built  
-**Evidence layer** → screenshots, diagrams, reports  
+**Evidence layer** → screenshots, diagrams and reports  
 **Learning layer** → what changed and what I learned  
-**Automation layer** → GitHub Actions, checks and CI/CD as the portfolio grows
+**Automation layer** → checks, CI/CD and repeatable workflows
 
 </details>
 
