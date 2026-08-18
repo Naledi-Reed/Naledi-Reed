@@ -1,10 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
 # N A L E D I&nbsp; R E E D
 
 ### `security-operations.exe` is starting...
 
-**IT Student · Cybersecurity · Security Operations · Cloud**
+**IT Student Â· Cybersecurity Â· Security Operations Â· Cloud**
 
 [![Belgium Campus](https://img.shields.io/badge/Belgium%20Campus-iTversity-111827?style=for-the-badge)](https://www.belgiumcampus.ac.za/)
 [![Focus](https://img.shields.io/badge/Focus-SOC%20%26%20Cybersecurity-ef4444?style=for-the-badge)](#the-mission)
@@ -25,8 +25,8 @@ Role        : IT Student
 Programme   : Diploma in Information Technology
 Institution : Belgium Campus iTversity
 Year        : 2nd Year
-Direction   : Cybersecurity • Security Operations • Cloud Security
-Strengths   : Networking • Systems • Automation • Infrastructure
+Direction   : Cybersecurity â€¢ Security Operations â€¢ Cloud Security
+Strengths   : Networking â€¢ Systems â€¢ Automation â€¢ Infrastructure
 Mindset     : Observe. Investigate. Respond. Improve.
 ```
 
@@ -36,7 +36,7 @@ Mindset     : Observe. Investigate. Respond. Improve.
 
 I am interested in what happens **when a system stops behaving normally**: what changed, how to identify it, how to investigate it, how to contain it and how to make the environment harder to compromise next time.
 
-`Networking → Systems → Security → Security Operations → Cloud Security → Automation`
+`Networking â†’ Systems â†’ Security â†’ Security Operations â†’ Cloud Security â†’ Automation`
 
 DevOps and DevSecOps remain part of the toolkit, but **security is the centre of the portfolio**.
 
@@ -61,71 +61,71 @@ $ ./naledi --status
 
 ## `featured-projects`
 
-### 🛡️ SOC Lab — building
+### ðŸ›¡ï¸ SOC Lab â€” building
 
-**Security Monitoring · Incident Response · Network Analysis · Windows/Linux**
+**Security Monitoring Â· Incident Response Â· Network Analysis Â· Windows/Linux**
 
 A practical home-lab track for learning how to detect, investigate and document security events using intentionally isolated virtual machines.
 
-[→ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
+[â†’ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
 
-### 🐳 Cloud Native Student Qualifier
+### ðŸ³ Cloud Native Student Qualifier
 
-**Docker · C# · Containers · Docker Hub**
+**Docker Â· C# Â· Containers Â· Docker Hub**
 
 A console application that determines whether a student qualifies to write an exam, then packages the application into a Docker image and publishes it for CLI-based use.
 
-**Evidence:** Dockerfile workflow · image build · Docker Hub · `docker pull` · `docker run`
+**Evidence:** Dockerfile workflow Â· image build Â· Docker Hub Â· `docker pull` Â· `docker run`
 
-[→ Open project](projects/cloud-native-student-qualifier/)
+[â†’ Open project](https://github.com/Naledi-Reed/cloud-native-student-qualifier)
 
-### 🖥️ Hybrid Windows Infrastructure
+### ðŸ–¥ï¸ Hybrid Windows Infrastructure
 
-**Windows Server 2019 · Active Directory · Group Policy · Security Hardening**
+**Windows Server 2019 Â· Active Directory Â· Group Policy Â· Security Hardening**
 
 An enterprise-style infrastructure lab covering server deployment, identity, access control, DNS/DHCP, Group Policy, shared storage, certificates and security hardening.
 
-[→ Open project](projects/windows-server-hybrid-infrastructure/)
+[â†’ Open project](https://github.com/Naledi-Reed/windows-server-hybrid-infrastructure)
 
-### ⚙️ PowerShell Administration Toolkit
+### âš™ï¸ PowerShell Administration Toolkit
 
-**PowerShell · Windows Administration · Automation · Monitoring**
+**PowerShell Â· Windows Administration Â· Automation Â· Monitoring**
 
 A toolkit for replacing repetitive Windows administration with reusable functions for system identity, process monitoring and administrative checks.
 
-[→ Open project](projects/windows-powershell-admin-toolkit/)
+[â†’ Open project](https://github.com/Naledi-Reed/powershell-admin-toolkit)
 
-### 🤖 Human Detection Probe
+### ðŸ¤– Human Detection Probe
 
-**IoT · Arduino · PIR · Embedded Systems**
+**IoT Â· Arduino Â· PIR Â· Embedded Systems**
 
 A search-and-rescue concept using human-presence detection and alerting for disaster environments.
 
-[→ Open project](projects/iot-human-detection-probe/)
+[â†’ Open project](https://github.com/Naledi-Reed/human-detection-probe)
 
-### 💧 AquaSense
+### ðŸ’§ AquaSense
 
-**IoT · Sensors · Cloud · Project Planning**
+**IoT Â· Sensors Â· Cloud Â· Project Planning**
 
 A smart irrigation and environmental monitoring concept combining sensors, microcontrollers, cloud computing and a user-facing application.
 
-[→ Open project](projects/iot-aquasense/)
+[â†’ Open project](https://github.com/Naledi-Reed/aquasense-iot)
 
-### 🌐 Information Networking Project
+### ðŸŒ Information Networking Project
 
-**HTML · CSS · JavaScript · Git · GitHub Pages**
+**HTML Â· CSS Â· JavaScript Â· Git Â· GitHub Pages**
 
 A collaborative web project demonstrating branch-based development, version control, AI-assisted development and static deployment.
 
-[→ Open project](projects/information-networking/)
+[â†’ Open project](projects/information-networking/)
 
-### 🏢 ERP Case Study
+### ðŸ¢ ERP Case Study
 
-**Enterprise Systems · Process Analysis · ERP**
+**Enterprise Systems Â· Process Analysis Â· ERP**
 
 A business/technical case study exploring enterprise systems, process integration and ERP decision-making.
 
-[→ Open project](projects/enterprise-resource-planning-case-study/)
+[â†’ Open project](https://github.com/Naledi-Reed/erp-case-study)
 
 ---
 
@@ -151,15 +151,15 @@ A business/technical case study exploring enterprise systems, process integratio
 
 | Certification | Issuer | Status |
 |---|---|---|
-| CyberOps Associate | Cisco | ✅ Earned |
-| CCNA: Introduction to Networks | Cisco | ✅ Earned |
-| Introduction to Data Science | Cisco | ✅ Earned |
-| IT Essentials | Cisco | ✅ Earned |
-| Introduction to Cybersecurity | Cisco | ✅ Earned |
-| CompTIA Security+ | CompTIA | 🟡 Target |
-| AWS Cloud Practitioner | AWS | 🟡 Learning |
+| CyberOps Associate | Cisco | âœ… Earned |
+| CCNA: Introduction to Networks | Cisco | âœ… Earned |
+| Introduction to Data Science | Cisco | âœ… Earned |
+| IT Essentials | Cisco | âœ… Earned |
+| Introduction to Cybersecurity | Cisco | âœ… Earned |
+| CompTIA Security+ | CompTIA | ðŸŸ¡ Target |
+| AWS Cloud Practitioner | AWS | ðŸŸ¡ Learning |
 
-[View my Credly profile →](https://www.credly.com/users/naledi-reed)
+[View my Credly profile â†’](https://www.credly.com/users/naledi-reed)
 
 ---
 
@@ -169,18 +169,18 @@ This profile is becoming a **technical evidence trail**, not an assignment dump.
 
 ```text
 COURSEWORK
-    │
-    ├── system design
-    ├── practical labs
-    ├── reports
-    ├── source code
-    ├── diagrams
-    └── lessons learned
-             │
-             ▼
+    â”‚
+    â”œâ”€â”€ system design
+    â”œâ”€â”€ practical labs
+    â”œâ”€â”€ reports
+    â”œâ”€â”€ source code
+    â”œâ”€â”€ diagrams
+    â””â”€â”€ lessons learned
+             â”‚
+             â–¼
        PORTFOLIO EVIDENCE
-             │
-             ▼
+             â”‚
+             â–¼
      REAL-WORLD ENGINEERING
 ```
 
@@ -213,13 +213,13 @@ The builder does **not** blindly publish raw assignments. New academic material 
 ## `learning-log`
 
 ### Now
-`Security+ · Linux · Windows Events · Networking · Wireshark · SOC fundamentals`
+`Security+ Â· Linux Â· Windows Events Â· Networking Â· Wireshark Â· SOC fundamentals`
 
 ### Building
-`SIEM · incident response · detection engineering · PowerShell · Python · cloud security`
+`SIEM Â· incident response Â· detection engineering Â· PowerShell Â· Python Â· cloud security`
 
 ### Later
-`AWS security · Terraform · DevSecOps · advanced detection · security engineering`
+`AWS security Â· Terraform Â· DevSecOps Â· advanced detection Â· security engineering`
 
 ---
 
@@ -227,11 +227,11 @@ The builder does **not** blindly publish raw assignments. New academic material 
 
 The next practical phase is a controlled VirtualBox security lab built around:
 
-`Kali Linux → Ubuntu → Metasploitable 2/3 → Windows 7 → Windows 11 baseline`
+`Kali Linux â†’ Ubuntu â†’ Metasploitable 2/3 â†’ Windows 7 â†’ Windows 11 baseline`
 
 The lab will be isolated from the normal home network and used for **defensive learning, controlled attack simulation, logging, investigation and incident response**.
 
-[→ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
+[â†’ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
 
 ---
 
@@ -254,3 +254,4 @@ The lab will be isolated from the normal home network and used for **defensive l
 ### `Still building.`
 
 **The goal is not to look finished. The goal is to show progress that is real.**
+
