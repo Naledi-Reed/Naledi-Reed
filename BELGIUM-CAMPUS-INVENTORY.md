@@ -1,6 +1,6 @@
 # Belgium Campus 2026 — Portfolio Inventory
 
-The uploaded Belgium Campus archive contains material across CNA261, DBD261, ERP261, ILE261, INL261, IOT261, OPS261, OPS262 and PMM261.
+The uploaded Belgium Campus archive contains material across CNA261, ERP261, ILE261, INL261, IOT261, OPS261, OPS262 and PMM261. DBD261 is intentionally excluded from the public portfolio for now.
 
 ## First publication wave
 
@@ -10,7 +10,13 @@ The uploaded Belgium Campus archive contains material across CNA261, DBD261, ERP
 4. AquaSense / PMM project
 5. Information Networking project
 6. Selected Operating Systems labs
-7. Selected Database work
+
+## Temporarily excluded
+
+- DBD261 / database coursework
+- Raw marks and academic records
+- Private lecturer correspondence
+- Student/group personal information
 
 ## Second wave
 
