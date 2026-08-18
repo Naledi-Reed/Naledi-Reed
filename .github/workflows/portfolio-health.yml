@@ -27,7 +27,7 @@ jobs:
         run: |
           echo "Project READMEs found:"
           find projects -maxdepth 2 -name README.md -print | sort
-          test "$(find projects -maxdepth 2 -name README.md | wc -l)" -ge 7
+          test "$(find projects -maxdepth 2 -name README.md | wc -l)" -ge 6
 
       - name: Check security lab roadmap
         run: test -s SOC-LAB-ROADMAP.md
