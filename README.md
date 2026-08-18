@@ -36,8 +36,6 @@ Mindset     : Observe. Investigate. Respond. Improve.
 
 I am interested in what happens **when a system stops behaving normally**: what changed, how to identify it, how to investigate it, how to contain it and how to make the environment harder to compromise next time.
 
-My current path:
-
 `Networking → Systems → Security → Security Operations → Cloud Security → Automation`
 
 DevOps and DevSecOps remain part of the toolkit, but **security is the centre of the portfolio**.
@@ -112,14 +110,6 @@ A search-and-rescue concept using human-presence detection and alerting for disa
 A smart irrigation and environmental monitoring concept combining sensors, microcontrollers, cloud computing and a user-facing application.
 
 → `projects/iot-aquasense/`
-
-### 🗄️ SQL Server Project Database
-
-**SQL Server · T-SQL · Relational Modelling**
-
-A relational database design for departments, employees, projects and employee/project allocation.
-
-→ `projects/database-sql-server/`
 
 ### 🌐 Information Networking Project
 
@@ -231,24 +221,6 @@ The lab will be isolated from the normal home network and used for **defensive l
 
 ---
 
-<details>
-<summary><strong>🧩 How this portfolio is evolving</strong></summary>
-
-The profile is being built like a small engineering system:
-
-**Profile layer** → who I am  
-**Project layer** → what I built  
-**Evidence layer** → screenshots, diagrams and reports  
-**Learning layer** → what changed and what I learned  
-**Automation layer** → checks, CI/CD and repeatable workflows  
-**Lab layer** → controlled security experimentation
-
-</details>
-
-<div align="center">
-
 ### `Still building.`
 
 **The goal is not to look finished. The goal is to show progress that is real.**
-
-</div>
