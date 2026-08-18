@@ -67,7 +67,7 @@ $ ./naledi --status
 
 A practical home-lab track for learning how to detect, investigate and document security events using intentionally isolated virtual machines.
 
-→ `SOC-LAB-ROADMAP.md`
+[→ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
 
 ### 🐳 Cloud Native Student Qualifier
 
@@ -77,7 +77,7 @@ A console application that determines whether a student qualifies to write an ex
 
 **Evidence:** Dockerfile workflow · image build · Docker Hub · `docker pull` · `docker run`
 
-→ `projects/cloud-native-student-qualifier/`
+[→ Open project](projects/cloud-native-student-qualifier/)
 
 ### 🖥️ Hybrid Windows Infrastructure
 
@@ -85,7 +85,7 @@ A console application that determines whether a student qualifies to write an ex
 
 An enterprise-style infrastructure lab covering server deployment, identity, access control, DNS/DHCP, Group Policy, shared storage, certificates and security hardening.
 
-→ `projects/windows-server-hybrid-infrastructure/`
+[→ Open project](projects/windows-server-hybrid-infrastructure/)
 
 ### ⚙️ PowerShell Administration Toolkit
 
@@ -93,7 +93,7 @@ An enterprise-style infrastructure lab covering server deployment, identity, acc
 
 A toolkit for replacing repetitive Windows administration with reusable functions for system identity, process monitoring and administrative checks.
 
-→ `projects/windows-powershell-admin-toolkit/`
+[→ Open project](projects/windows-powershell-admin-toolkit/)
 
 ### 🤖 Human Detection Probe
 
@@ -101,7 +101,7 @@ A toolkit for replacing repetitive Windows administration with reusable function
 
 A search-and-rescue concept using human-presence detection and alerting for disaster environments.
 
-→ `projects/iot-human-detection-probe/`
+[→ Open project](projects/iot-human-detection-probe/)
 
 ### 💧 AquaSense
 
@@ -109,7 +109,7 @@ A search-and-rescue concept using human-presence detection and alerting for disa
 
 A smart irrigation and environmental monitoring concept combining sensors, microcontrollers, cloud computing and a user-facing application.
 
-→ `projects/iot-aquasense/`
+[→ Open project](projects/iot-aquasense/)
 
 ### 🌐 Information Networking Project
 
@@ -117,7 +117,7 @@ A smart irrigation and environmental monitoring concept combining sensors, micro
 
 A collaborative web project demonstrating branch-based development, version control, AI-assisted development and static deployment.
 
-→ `projects/information-networking/`
+[→ Open project](projects/information-networking/)
 
 ---
 
@@ -201,7 +201,7 @@ The next practical phase is a controlled VirtualBox security lab built around:
 
 The lab will be isolated from the normal home network and used for **defensive learning, controlled attack simulation, logging, investigation and incident response**.
 
-→ `SOC-LAB-ROADMAP.md`
+[→ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
 
 ---
 
