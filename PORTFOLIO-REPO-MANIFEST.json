@@ -1,0 +1,51 @@
+{
+  "owner": "Naledi-Reed",
+  "profile_repository": "Naledi-Reed/Naledi-Reed",
+  "dbd_policy": "EXCLUDED",
+  "standalone_repositories": [
+    {
+      "source": "projects/cloud-native-student-qualifier",
+      "repository": "cloud-native-student-qualifier",
+      "description": "C# student qualification app packaged and demonstrated with Docker.",
+      "topics": ["csharp", "docker", "containers", "cloud-native", "cli"]
+    },
+    {
+      "source": "projects/windows-server-hybrid-infrastructure",
+      "repository": "windows-server-hybrid-infrastructure",
+      "description": "Windows Server enterprise infrastructure lab covering AD, Group Policy, DNS, DHCP and security hardening.",
+      "topics": ["windows-server", "active-directory", "group-policy", "infrastructure", "security"]
+    },
+    {
+      "source": "projects/windows-powershell-admin-toolkit",
+      "repository": "powershell-admin-toolkit",
+      "description": "PowerShell administration toolkit for repeatable Windows system checks and monitoring.",
+      "topics": ["powershell", "windows", "automation", "system-administration", "security"]
+    },
+    {
+      "source": "projects/iot-human-detection-probe",
+      "repository": "human-detection-probe",
+      "description": "Arduino/PIR search-and-rescue human detection system concept.",
+      "topics": ["arduino", "iot", "embedded", "pir", "sensors"]
+    },
+    {
+      "source": "projects/iot-aquasense",
+      "repository": "aquasense-iot",
+      "description": "IoT smart irrigation and environmental monitoring system concept.",
+      "topics": ["iot", "sensors", "cloud", "smart-agriculture", "system-design"]
+    },
+    {
+      "source": "projects/enterprise-resource-planning-case-study",
+      "repository": "erp-case-study",
+      "description": "Enterprise systems and ERP case-study analysis focused on business continuity and process integration.",
+      "topics": ["erp", "enterprise-systems", "systems-analysis", "business-continuity"]
+    }
+  ],
+  "existing_repository_left_untouched": {
+    "repository": "INL261-AI-Assisted-Animated-Website-",
+    "reason": "Existing academic/group repository; do not overwrite or republish as a personal repository."
+  },
+  "not_created_yet": {
+    "repository": "soc-home-lab",
+    "reason": "Homelab implementation has intentionally been postponed until the project repositories are complete."
+  }
+}
