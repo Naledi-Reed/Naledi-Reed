@@ -9,9 +9,12 @@ This repository is the public portfolio hub. The original Belgium Campus archive
 | Infrastructure / Identity | Hybrid Windows Infrastructure | Technical design summary |
 | IoT | Human Detection Probe | Technical summary |
 | IoT / Cloud | AquaSense | System summary |
-| Data | SQL Server Database | Sanitised SQL schema + explanation |
 | Collaboration / Web | Information Networking | Project summary + live project |
 | Security | SOC Home Lab | Roadmap; hands-on implementation follows later |
+
+## Temporarily excluded
+
+DBD261 / database coursework is intentionally excluded from the public portfolio for now.
 
 ## Curation rule
 
