@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+<style>text{font-family:Arial,sans-serif;fill:#111}.box{fill:#f7f7f7;stroke:#222;stroke-width:2}.arrow{stroke:#444;stroke-width:3;marker-end:url(#m)}</style>
+<defs><marker id="m" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#444"/></marker></defs>
+<text x="500" y="35" text-anchor="middle" font-size="24" font-weight="700">Cloud Native Student Qualifier</text>
+<rect class="box" x="40" y="110" width="180" height="90" rx="12"/><text x="130" y="150" text-anchor="middle" font-size="18" font-weight="700">C# Console App</text><text x="130" y="175" text-anchor="middle" font-size="14">Weighted calculation</text>
+<rect class="box" x="290" y="110" width="180" height="90" rx="12"/><text x="380" y="150" text-anchor="middle" font-size="18" font-weight="700">Dockerfile</text><text x="380" y="175" text-anchor="middle" font-size="14">Container build</text>
+<rect class="box" x="540" y="110" width="180" height="90" rx="12"/><text x="630" y="150" text-anchor="middle" font-size="18" font-weight="700">Docker Image</text><text x="630" y="175" text-anchor="middle" font-size="14">Repeatable runtime</text>
+<rect class="box" x="790" y="110" width="170" height="90" rx="12"/><text x="875" y="150" text-anchor="middle" font-size="18" font-weight="700">Registry / CLI</text><text x="875" y="175" text-anchor="middle" font-size="14">Pull + run</text>
+<path class="arrow" d="M220 155 H290"/><path class="arrow" d="M470 155 H540"/><path class="arrow" d="M720 155 H790"/>
+<text x="500" y="265" text-anchor="middle" font-size="16">Evidence: application logic → containerisation → registry workflow → command-line execution</text>
+</svg>
