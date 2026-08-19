@@ -3,7 +3,7 @@
 The portfolio build is designed around one Windows command:
 
 ```powershell
-.\BUILD-PORTFOLIO.ps1
+.\BUILD-GITHUB-PORTFOLIO.ps1
 ```
 
 It should leave the public portfolio in this state:

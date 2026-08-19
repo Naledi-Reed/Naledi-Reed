@@ -3,7 +3,7 @@
 ## One command on Windows
 
 ```powershell
-.\BUILD-PORTFOLIO.ps1
+.\BUILD-GITHUB-PORTFOLIO.ps1
 ```
 
 This workflow is designed to make the public portfolio repeatable:

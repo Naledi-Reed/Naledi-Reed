@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # N A L E D I&nbsp; R E E D
 
@@ -26,8 +26,6 @@ Programme   : Diploma in Information Technology
 Institution : Belgium Campus iTversity
 Year        : 2nd Year
 Direction   : Cybersecurity • Security Operations • Cloud Security
-Strengths   : Networking • Systems • Automation • Infrastructure
-Mindset     : Observe. Investigate. Respond. Improve.
 ```
 
 > I am building toward **security operations and cybersecurity**, while developing the cloud, systems and automation skills that make security work stronger.
@@ -39,23 +37,6 @@ I am interested in what happens **when a system stops behaving normally**: what 
 `Networking → Systems → Security → Security Operations → Cloud Security → Automation`
 
 DevOps and DevSecOps remain part of the toolkit, but **security is the centre of the portfolio**.
-
----
-
-## `the_signal`
-
-```console
-$ ./naledi --status
-
-[+] networking           active
-[+] linux                active
-[+] windows              active
-[+] cybersecurity        active
-[+] security-ops         learning
-[+] cloud                learning
-[+] automation           building
-[>] next_target          real incident investigations
-```
 
 ---
 
@@ -117,7 +98,7 @@ A smart irrigation and environmental monitoring concept combining sensors, micro
 
 A collaborative web project demonstrating branch-based development, version control, AI-assisted development and static deployment.
 
-[→ Open project](projects/information-networking/)
+[→ Open project](https://github.com/Naledi-Reed/INL261-AI-Assisted-Animated-Website-)
 
 ### 🏢 ERP Case Study
 
@@ -163,67 +144,16 @@ A business/technical case study exploring enterprise systems, process integratio
 
 ---
 
-## `academic-year-2026`
+<details>
+<summary><strong>📋 More details — learning log, home lab, and how this portfolio is built</strong></summary>
 
-This profile is becoming a **technical evidence trail**, not an assignment dump.
+### `learning-log`
 
-```text
-COURSEWORK
-    │
-    ├── system design
-    ├── practical labs
-    ├── reports
-    ├── source code
-    ├── diagrams
-    └── lessons learned
-             │
-             ▼
-       PORTFOLIO EVIDENCE
-             │
-             ▼
-     REAL-WORLD ENGINEERING
-```
+Currently working on: `Security+ · Linux · Windows Events · Networking · Wireshark · SOC fundamentals`
+Building toward: `SIEM · incident response · detection engineering · PowerShell · Python · cloud security`
+Longer term: `AWS security · Terraform · DevSecOps · advanced detection · security engineering`
 
-My full academic record, raw marks and private administration stay outside the public profile. Public repositories focus on **skills, evidence and outcomes**.
-
----
-
-## `one-command-build`
-
-The public portfolio is maintained through one Windows command from a local clone:
-
-```powershell
-.\BUILD-PORTFOLIO.ps1
-```
-
-That builder:
-
-- uses the approved project set
-- excludes DBD261 by policy
-- checks for obvious secrets/private academic markers
-- validates the project structure
-- generates the portfolio build manifest
-- creates a Git commit when changes exist
-- pushes the current branch when GitHub authentication is configured
-
-The builder does **not** blindly publish raw assignments. New academic material still goes through curation before it becomes public portfolio evidence.
-
----
-
-## `learning-log`
-
-### Now
-`Security+ · Linux · Windows Events · Networking · Wireshark · SOC fundamentals`
-
-### Building
-`SIEM · incident response · detection engineering · PowerShell · Python · cloud security`
-
-### Later
-`AWS security · Terraform · DevSecOps · advanced detection · security engineering`
-
----
-
-## `home-lab`
+### `home-lab`
 
 The next practical phase is a controlled VirtualBox security lab built around:
 
@@ -232,6 +162,18 @@ The next practical phase is a controlled VirtualBox security lab built around:
 The lab will be isolated from the normal home network and used for **defensive learning, controlled attack simulation, logging, investigation and incident response**.
 
 [→ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
+
+### `how-this-portfolio-is-built`
+
+This profile is a curated technical evidence trail, not an assignment dump — full academic records, raw marks and private administration stay outside the public repos. It's maintained through one PowerShell script from a local clone:
+
+```powershell
+.\BUILD-GITHUB-PORTFOLIO.ps1
+```
+
+See [`WINDOWS-ONE-COMMAND.md`](WINDOWS-ONE-COMMAND.md) for the full build process.
+
+</details>
 
 ---
 
