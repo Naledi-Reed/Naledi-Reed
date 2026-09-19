@@ -1,198 +1,81 @@
-﻿<div align="center">
+<div align="center">
 
-# N A L E D I&nbsp; R E E D
+# Naledi Reed
 
-### `security-operations.exe` is starting...
+### Cybersecurity and Infrastructure Student
 
-**IT Student · Cybersecurity · Security Operations · Cloud**
+**SOC Operations · Windows and Linux · Networking · Automation · Cloud Security**
 
-[![Belgium Campus](https://img.shields.io/badge/Belgium%20Campus-iTversity-111827?style=for-the-badge)](https://www.belgiumcampus.ac.za/)
-[![Focus](https://img.shields.io/badge/Focus-SOC%20%26%20Cybersecurity-ef4444?style=for-the-badge)](#the-mission)
-[![Networking](https://img.shields.io/badge/Networking-CCNA-0ea5e9?style=for-the-badge)](#toolbox)
-[![Security](https://img.shields.io/badge/Security-CyberOps-7c3aed?style=for-the-badge)](#certifications)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=EF4444&center=true&vCenter=true&width=850&lines=IT+Student+%7C+Cybersecurity+in+the+Making;Learning+to+Detect.+Investigate.+Respond.;Networking+%E2%86%92+Systems+%E2%86%92+Security+%E2%86%92+Cloud" alt="Typing introduction">
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://naledi-reed-cybersecurity-portfolio.reednaledi02.chatgpt.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/naledi-reed)
+[![Credly](https://img.shields.io/badge/Credly-F36C21?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/naledi-reed)
 
 </div>
 
 ---
 
-## `whoami`
+## About me
 
-```text
-Name        : Naledi Reed
-Role        : IT Student
-Programme   : Diploma in Information Technology
-Institution : Belgium Campus iTversity
-Year        : 2nd Year
-Direction   : Cybersecurity • Security Operations • Cloud Security
-```
+I am a second-year Diploma in Information Technology student at **Belgium Campus iTversity**, specialising in **Infrastructure and Security** and progressing toward final year in 2027.
 
-> I am building toward **security operations and cybersecurity**, while developing the cloud, systems and automation skills that make security work stronger.
-
-### The mission
-
-I am interested in what happens **when a system stops behaving normally**: what changed, how to identify it, how to investigate it, how to contain it and how to make the environment harder to compromise next time.
-
-`Networking → Systems → Security → Security Operations → Cloud Security → Automation`
-
-DevOps and DevSecOps remain part of the toolkit, but **security is the centre of the portfolio**.
+I build practical evidence across Windows and Linux administration, networking, PowerShell, C#, Docker and embedded systems. My career direction is **security operations, blue-team security and cloud security**.
 
 ---
 
-## `featured-projects`
+## Featured work
 
-### 🛡️ SOC Lab — building
+| Project | What it demonstrates | Evidence | Status |
+|---|---|---|---|
+| [Hybrid Windows Infrastructure](https://github.com/Naledi-Reed/windows-server-hybrid-infrastructure) | Windows Server 2019, Active Directory, Group Policy, DNS, DHCP and security hardening | Lab evidence and a read-only security-baseline export script | **Case study** |
+| [PowerShell Administration Toolkit](https://github.com/Naledi-Reed/powershell-admin-toolkit) | Reusable Windows administration, system monitoring and structured reporting | Runnable PowerShell toolkit with screenshots and documentation | **Working project** |
+| [Cloud Native Student Qualifier](https://github.com/Naledi-Reed/cloud-native-student-qualifier) | C# application logic, Docker images and command-line deployment | Source code, Dockerfile and execution guide | **Complete** |
+| [Animated Lecturer Portfolio](https://github.com/Naledi-Reed/INL261-AI-Assisted-Animated-Website-) | HTML, CSS, JavaScript, accessibility, Git collaboration and deployment | Complete source and live GitHub Pages website | **Complete** |
 
-**Security Monitoring · Incident Response · Network Analysis · Windows/Linux**
+### Additional case studies
 
-A practical home-lab track for learning how to detect, investigate and document security events using intentionally isolated virtual machines.
-
-[→ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
-
-### 🐳 Cloud Native Student Qualifier
-
-**Docker · C# · Containers · Docker Hub**
-
-A console application that determines whether a student qualifies to write an exam, then packages the application into a Docker image and publishes it for CLI-based use.
-
-**Evidence:** Dockerfile workflow · image build · Docker Hub · `docker pull` · `docker run`
-
-[→ Open project](https://github.com/Naledi-Reed/cloud-native-student-qualifier)
-
-### 🖥️ Hybrid Windows Infrastructure
-
-**Windows Server 2019 · Active Directory · Group Policy · Security Hardening**
-
-An enterprise-style infrastructure lab covering server deployment, identity, access control, DNS/DHCP, Group Policy, shared storage, certificates and security hardening.
-
-[→ Open project](https://github.com/Naledi-Reed/windows-server-hybrid-infrastructure)
-
-### ⚙️ PowerShell Administration Toolkit
-
-**PowerShell · Windows Administration · Automation · Monitoring**
-
-A toolkit for replacing repetitive Windows administration with reusable functions for system identity, process monitoring and administrative checks.
-
-[→ Open project](https://github.com/Naledi-Reed/powershell-admin-toolkit)
-
-### 🤖 Human Detection Probe
-
-**IoT · Arduino · PIR · Embedded Systems**
-
-A search-and-rescue concept using human-presence detection and alerting for disaster environments.
-
-[→ Open project](https://github.com/Naledi-Reed/human-detection-probe)
-
-### 💧 AquaSense
-
-**IoT · Sensors · Cloud · Project Planning**
-
-A smart irrigation and environmental monitoring concept combining sensors, microcontrollers, cloud computing and a user-facing application.
-
-[→ Open project](https://github.com/Naledi-Reed/aquasense-iot)
-
-### 🌐 Information Networking Project
-
-**HTML · CSS · JavaScript · Git · GitHub Pages**
-
-A collaborative web project demonstrating branch-based development, version control, AI-assisted development and static deployment.
-
-[→ Open project](https://github.com/Naledi-Reed/INL261-AI-Assisted-Animated-Website-)
-
-### 🏢 ERP Case Study
-
-**Enterprise Systems · Process Analysis · ERP**
-
-A business/technical case study exploring enterprise systems, process integration and ERP decision-making.
-
-[→ Open project](https://github.com/Naledi-Reed/erp-case-study)
+- [Human Detection Probe](https://github.com/Naledi-Reed/human-detection-probe) - Arduino, PIR sensing, LCD feedback and audio-visual alerts
+- [AquaSense](https://github.com/Naledi-Reed/aquasense-iot) - IoT solution design, cloud-enabled monitoring and project planning
 
 ---
 
-## `toolbox`
+## Technical toolkit
 
-| Area | Tools / Knowledge |
-|---|---|
-| Security | Cisco CyberOps, security fundamentals, incident-response concepts |
-| Networking | CCNA foundations, routing, switching, IPv6, subnetting |
-| Systems | Linux, Kali, Ubuntu, Windows, Windows Server |
-| Security Operations | SIEM concepts, event analysis, investigation workflow, threat detection (building) |
-| Cloud | AWS learning path, Azure concepts |
-| Containers | Docker, Docker CLI, Docker Hub |
-| Automation | PowerShell, scripting, repeatable administration |
-| Programming | C#, console applications, problem solving |
-| Infrastructure | Active Directory, Group Policy, DNS, DHCP, file services |
-| IoT | Arduino, PIR sensing, hardware/system modelling |
-| Collaboration | Git, GitHub, documentation, project-based work |
+`Windows Server` · `Active Directory` · `Group Policy` · `Linux` · `PowerShell` · `Bash`  
+`IPv4 and IPv6` · `Subnetting` · `CCNA foundations` · `Docker` · `C# and .NET`  
+`Python fundamentals` · `SQL and T-SQL` · `Git and GitHub` · `Arduino`
 
 ---
 
-## `certifications`
+## Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| CyberOps Associate | Cisco | ✅ Earned |
-| CCNA: Introduction to Networks | Cisco | ✅ Earned |
-| Introduction to Data Science | Cisco | ✅ Earned |
-| IT Essentials | Cisco | ✅ Earned |
-| Introduction to Cybersecurity | Cisco | ✅ Earned |
-| CompTIA Security+ | CompTIA | 🟡 Target |
-| AWS Cloud Practitioner | AWS | 🟡 Learning |
+**Earned**
 
-[View my Credly profile →](https://www.credly.com/users/naledi-reed)
+- Cisco CyberOps Associate
+- Cisco CCNA Introduction to Networks
+- Cisco Introduction to Cybersecurity
+- Cisco IT Essentials
+- Cisco Introduction to Data Science
 
----
+**Currently developing**
 
-<details>
-<summary><strong>📋 More details — learning log, home lab, and how this portfolio is built</strong></summary>
-
-### `learning-log`
-
-Currently working on: `Security+ · Linux · Windows Events · Networking · Wireshark · SOC fundamentals`
-Building toward: `SIEM · incident response · detection engineering · PowerShell · Python · cloud security`
-Longer term: `AWS security · Terraform · DevSecOps · advanced detection · security engineering`
-
-### `home-lab`
-
-The next practical phase is a controlled VirtualBox security lab built around:
-
-`Kali Linux → Ubuntu → Metasploitable 2/3 → Windows 7 → Windows 11 baseline`
-
-The lab will be isolated from the normal home network and used for **defensive learning, controlled attack simulation, logging, investigation and incident response**.
-
-[→ Open SOC Lab roadmap](SOC-LAB-ROADMAP.md)
-
-### `how-this-portfolio-is-built`
-
-This profile is a curated technical evidence trail, not an assignment dump — full academic records, raw marks and private administration stay outside the public repos. It's maintained through one PowerShell script from a local clone:
-
-```powershell
-.\BUILD-GITHUB-PORTFOLIO.ps1
-```
-
-See [`WINDOWS-ONE-COMMAND.md`](WINDOWS-ONE-COMMAND.md) for the full build process.
-
-</details>
+- AWS Cloud Practitioner learning path
+- CompTIA Security+ preparation
+- Practical SOC investigation and Windows event-analysis skills
 
 ---
 
-## `github-stats`
+## Current direction
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naledi-Reed&show_icons=true&hide_border=true" alt="GitHub statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naledi-Reed&layout=compact&hide_border=true" alt="Top languages">
-</p>
+I am seeking **2027 bursary, sponsorship, internship and learnership opportunities** related to cybersecurity, infrastructure, cloud and security operations.
 
----
-
-## `connect`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Naledi--Reed-181717?style=for-the-badge&logo=github)](https://github.com/Naledi-Reed)
-[![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B35?style=for-the-badge)](https://www.credly.com/users/naledi-reed)
+My public repositories contain curated technical evidence. Private student information, unredacted academic submissions and confidential records are intentionally excluded.
 
 ---
 
-### `Still building.`
+<div align="center">
 
-**The goal is not to look finished. The goal is to show progress that is real.**
+### Connect
+
+[LinkedIn](https://za.linkedin.com/in/naledi-reed) · [Portfolio](https://naledi-reed-cybersecurity-portfolio.reednaledi02.chatgpt.site) · [GitHub](https://github.com/Naledi-Reed) · [Credly](https://www.credly.com/users/naledi-reed)
+
+</div>
