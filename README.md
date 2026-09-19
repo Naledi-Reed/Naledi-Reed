@@ -12,7 +12,7 @@
 
 **SOC Operations • Windows & Linux • Networking • PowerShell • Cloud Security**
 
-![2027 Opportunities](https://img.shields.io/badge/OPEN_TO-2027_INTERNSHIPS_&_SPONSORSHIPS-B6FF00?style=flat-square&labelColor=101820)
+![2027 Opportunities](https://img.shields.io/badge/OPEN_TO-2027_INTERNSHIPS_%26_SPONSORSHIPS-B6FF00?style=flat-square&labelColor=101820)
 ![Focus](https://img.shields.io/badge/FOCUS-BLUE_TEAM_&_SOC-B6FF00?style=flat-square&labelColor=101820)
 
 </div>
@@ -124,9 +124,9 @@ A responsive single-page website with animation, flip cards, a quote carousel, a
 ![Docker](https://img.shields.io/badge/Docker-101820?style=for-the-badge&logo=docker&logoColor=B6FF00)
 ![C Sharp](https://img.shields.io/badge/C%23_.NET-101820?style=for-the-badge&logo=dotnet&logoColor=B6FF00)
 ![Python](https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=B6FF00)
-![SQL](https://img.shields.io/badge/SQL_&_T--SQL-101820?style=for-the-badge&logo=microsoftsqlserver&logoColor=B6FF00)
+![SQL](https://img.shields.io/badge/SQL_%26_T--SQL-101820?style=for-the-badge&logo=microsoftsqlserver&logoColor=B6FF00)
 ![Arduino](https://img.shields.io/badge/Arduino-101820?style=for-the-badge&logo=arduino&logoColor=B6FF00)
-![GitHub](https://img.shields.io/badge/Git_&_GitHub-101820?style=for-the-badge&logo=github&logoColor=B6FF00)
+![GitHub](https://img.shields.io/badge/Git_%26_GitHub-101820?style=for-the-badge&logo=github&logoColor=B6FF00)
 
 </div>
 
