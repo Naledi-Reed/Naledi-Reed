@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Naledi Reed Cybersecurity Portfolio</title>
+<desc id="desc">Dark cybersecurity banner with lime green accents</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050807"/>
+    <stop offset="0.55" stop-color="#0B1711"/>
+    <stop offset="1" stop-color="#10251A"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="80%" cy="20%" r="70%">
+    <stop offset="0" stop-color="#B6FF00" stop-opacity=".18"/>
+    <stop offset="1" stop-color="#B6FF00" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#B6FF00" stroke-opacity=".07"/>
+  </pattern>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+<rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+<path d="M72 243H248l36-63 42 77 48-112 53 98h88" fill="none" stroke="#B6FF00" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".78"/>
+<circle cx="72" cy="243" r="7" fill="#B6FF00"/>
+<circle cx="475" cy="243" r="7" fill="#B6FF00"/>
+<text x="70" y="88" fill="#B6FF00" font-family="Consolas, Menlo, monospace" font-size="21" letter-spacing="5">SECURITY • INFRASTRUCTURE • AUTOMATION</text>
+<text x="70" y="158" fill="#F5FFF0" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">NALEDI REED</text>
+<text x="70" y="202" fill="#B9C7BD" font-family="Arial, Helvetica, sans-serif" font-size="25">Building practical evidence for blue-team and cloud security.</text>
+<g transform="translate(930 72)">
+  <path d="M70 0l65 24v53c0 48-28 88-65 105C33 165 5 125 5 77V24z" fill="#B6FF00" fill-opacity=".08" stroke="#B6FF00" stroke-width="3"/>
+  <path d="M70 32v112M34 75h72M45 114h50" stroke="#B6FF00" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+</g>
+</svg>
